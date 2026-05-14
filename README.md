@@ -20,6 +20,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 5.User experience
 
-OUTPUT:
+OUTPUT:https://drive.google.com/file/d/1RL_5KJeCxnAajcW-JtEo7hT0yBUkLJSa/view?usp=drive_link
 
-RESULT:
+RESULT:Therefore, from the above analysis, ChatGPT is concluded to be the most effective AI platform.
